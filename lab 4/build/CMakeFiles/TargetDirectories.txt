@@ -1,0 +1,3 @@
+C:/Users/zuza2/lab 4/build/CMakeFiles/output.dir
+C:/Users/zuza2/lab 4/build/CMakeFiles/edit_cache.dir
+C:/Users/zuza2/lab 4/build/CMakeFiles/rebuild_cache.dir
